@@ -57,7 +57,9 @@ body{
           width: 100%;
       }
       .first-part img{
-          width: 100%;
+          width: 90%;
+          
+          
           padding: 10px 10px 20px;
         
           
@@ -74,11 +76,27 @@ body{
             padding: 20px;
             box-shadow: 10px 10px 40px black;
             border-radius: 20px;
-            
+            margin-bottom: 20px;
+
         
           }
           #packages{
               margin: 50px;
               margin-bottom: 50px;
+              
+              margin-left: 5%;
+              margin-right: 80%;
+              padding: 2px;
+              color: black;
+            box-shadow: 10px 10px 20px white;
+            border-radius: 2px;
+          }
+          #indo{
+            width: 100%;
+            height: auto;
             
+          }
+          .second-blog{
+              margin-right: 20%;
+              margin-left: 10%;
           }
